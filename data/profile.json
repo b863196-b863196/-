@@ -1,0 +1,13 @@
+{
+  "name": "林予安",
+  "role": "前端設計與互動開發",
+  "intro": "我把清楚的想法，做成簡單、好用而且有溫度的數位體驗。",
+  "location": "台灣・台北",
+  "email": "hello@example.com",
+  "availability": "開放合作與交流",
+  "projects": [
+    { "number": "01", "type": "品牌網站", "title": "山嶼選物", "description": "為日常選物品牌整理商品故事與購物動線，讓每次探索都輕鬆而清楚。", "tags": ["設計系統", "響應式網站"] },
+    { "number": "02", "type": "互動體驗", "title": "城市光徑", "description": "以地圖與微互動呈現城市散步路線，讓人用自己的步調認識街區。", "tags": ["互動設計", "JavaScript"] },
+    { "number": "03", "type": "數位產品", "title": "留白日記", "description": "一個幫助使用者留住靈感的小工具，專注在快速記錄與安心回顧。", "tags": ["產品思維", "原型設計"] }
+  ]
+}
